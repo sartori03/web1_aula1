@@ -1,0 +1,4 @@
+﻿# Sacubitril/valsartana
+**Sacubitril/valsartana**, vendido sob a marca **Entresto** entre outras, é um medicamento combinado usado para insuficiência cardíaca com fração de ejeção reduzida. Pode ser usado para substituir um inibidor da ECA ou um bloqueador do receptor da angiotensina. É tomado por via oral.
+
+Os efeitos colaterais comuns incluem pressão arterial baixa, tosse, problemas renais e níveis elevados de potássio. Outros efeitos colaterais podem incluir angioedema. O uso durante a gravidez pode prejudicar o bebê. Ele contém sacubitril, um inibidor da neprilisina, e valsartana, um bloqueador do receptor da angiotensina. A combinação é algumas vezes conhecida como "inibidor do receptor de angiotensina-neprilisina" ou "ARNi", do inglês: *angiotensin* *receptor-neprilysin* *inhibitor*).
