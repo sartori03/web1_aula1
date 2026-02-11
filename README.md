@@ -1,5 +1,5 @@
 # EXERCÍCIOS MAURO - 10/02/2026
-## [lista_compras.md](./lista_compras)
+## [lista_compras.md](./lista_compras.md)
 Uma lista de compras comum.
 ## LISTA_COMPRAS_NUMERADA
 Uma lista de compras numerada por ordem de prioridade.
